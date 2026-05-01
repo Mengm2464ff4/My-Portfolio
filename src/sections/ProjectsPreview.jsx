@@ -6,6 +6,8 @@ import ecommerceImg from '../assets/images/E-CommerceProject.png';
 import weatherImg from '../assets/images/Weather-App.png';
 import taskManagerImg from '../assets/images/Task-App.png';
 import dashboardImg from '../assets/images/Dashboard-UI.png';
+import landingPageImg from '../assets/images/Landing-Page.png';
+
 const projects = [
   {
     id: 1,
@@ -47,10 +49,10 @@ const projects = [
     id: 5,
     title: "Landing Page Portfolio",
     description: "A modern landing page for a tech startup, featuring a clean design and smooth animations",
-    image: "",
+    image: landingPageImg,
     tech: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://landing-page-example.com",
-    githubUrl: "https://github.com/Mengm2464ff4/Landing-Page"
+    liveUrl: "https://mengm2464ff4.github.io/My-Landingpage-Portfolio/",
+    githubUrl: "https://github.com/Mengm2464ff4/My-Landingpage-Portfolio"
   }
 //   {
 //   id: 5,
